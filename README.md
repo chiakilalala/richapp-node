@@ -1,6 +1,6 @@
 # iRich 記帳程式
 
-
+https://richapp-node.herokuapp.com/
 
 ![](https://i.imgur.com/pMux9b6.png)
 
